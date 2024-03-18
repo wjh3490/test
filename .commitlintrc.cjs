@@ -21,7 +21,7 @@ module.exports = {
         confirmCommit: '是否提交或修改commit ?'
       },
       types: [
-        { value: '特性', name: '特性:     新增功能' },
+        { value: 'feat', name: '特性:     新增功能' },
         { value: '修复', name: '修复:     修复缺陷' },
         { value: '文档', name: '文档:     文档变更' },
         { value: '格式', name: '格式:     代码格式（不影响功能，例如空格、分号等格式修正）' },
