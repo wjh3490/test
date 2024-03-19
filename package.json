@@ -23,6 +23,7 @@
   "devDependencies": {
     "@commitlint/cli": "^19.2.0",
     "@commitlint/config-conventional": "^19.1.0",
+    "@commitlint/cz-commitlint": "^19.2.0",
     "@vitejs/plugin-vue": "^5.0.4",
     "commitizen": "^4.3.0",
     "cz-git": "^1.9.0",
